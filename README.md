@@ -15,8 +15,8 @@ Follow these steps to set up the project locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/travel-phrasebook.git
-cd travel-phrasebook
+git clone https://github.com/vitthalverma/diploy-assignment.git
+cd diploy-assignment
 ```
 ### 2. Install dependencies
 
