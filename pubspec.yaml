@@ -41,6 +41,7 @@ dependencies:
   animated_snack_bar:
   responsive_sizer: ^3.3.1
   google_fonts:
+  flutter_slidable: ^3.1.1
 
 dev_dependencies:
   flutter_test:
